@@ -22,3 +22,11 @@ A distinguishing feature of this volume is its inclusion of laboratory work and 
 In the current era of artificial intelligence, this book serves as an essential resource for those seeking to leverage MATLAB's capabilities. It not only equips readers with programming skills but also illustrates how MATLAB can be integrated into cutting-edge research and industry applications.
 
 
+MATLAB Roadmap to Applications Volume I Fundamental
+©2025XXVII, 593 p. 60 illus., 44 illus. in color.
+link.springer.com/book/9789819787883
+
+
+https://book-promotion-toolkit.springernature.com/book/978-981-97-8788-3?sap-outbound-id=D6B95CE6D4C6B8F4924622128BFD677B43D8AD8C&utm_source=standard&utm_medium=email&utm_campaign=000_LAN36_0000039736_CONR_POSPB_LYLT_GL_PBOK_ASSETS&utm_content=EN_74563_20250617&mkt-key=3F8C33D30FA31FD08384CAD6FF3F432B
+
+
